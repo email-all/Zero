@@ -135,7 +135,7 @@
     "navUser": {
       "customerSupport": "Kopiena",
       "documentation": "Dokumentācija",
-      "appTheme": "Aplikācijas motīvs",
+      "appTheme": "Pārslēgt krāsu tēmu",
       "accounts": "Konti",
       "signIn": "Pierakstīties",
       "otherAccounts": "Citi konti"
@@ -269,7 +269,9 @@
       "notFound": "Iestatījumu lapa nav atrasta",
       "saved": "Iestatījumi saglabāti",
       "failedToSave": "Neizdevās saglabāt iestatījumus",
-      "languageChanged": "Valoda nomainīta uz {locale}"
+      "languageChanged": "Valoda nomainīta uz {locale}",
+      "defaultEmailUpdated": "Noklusējuma e-pasta aizstājvārds atjaunināts Gmail",
+      "failedToUpdateGmailAlias": "Neizdevās atjaunināt noklusējuma aizstājvārdu Gmail iestatījumos"
     },
     "mail": {
       "replies": "{count, plural, zero {}=0 {atbildes} one {# atbilde} other {# atbildes}}",
@@ -396,7 +398,10 @@
         "customPromptDescription": "Pielāgot, kā AI raksta jūsu e-pasta atbildes. Jūsu norādījumi tiks pievienoti AI noklusējuma instrukcijām.",
         "noResultsFound": "Netika atrasts neviens rezultāts",
         "zeroSignature": "Zero paraksts",
-        "zeroSignatureDescription": "Pievienot Zero parakstu saviem e-pastiem."
+        "zeroSignatureDescription": "Pievienot Zero parakstu saviem e-pastiem.",
+        "defaultEmailAlias": "Noklusējuma e-pasta aizstājvārds",
+        "selectDefaultEmail": "Izvēlēties noklusējuma e-pastu",
+        "defaultEmailDescription": "Šis e-pasts tiks izmantots kā noklusējuma 'No' adrese, rakstot jaunus e-pastus"
       },
       "connections": {
         "title": "E-pasta savienojumi",

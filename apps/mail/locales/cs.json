@@ -135,7 +135,7 @@
     "navUser": {
       "customerSupport": "Komunita",
       "documentation": "Dokumentace",
-      "appTheme": "Vzhled aplikace",
+      "appTheme": "Přepnout motiv",
       "accounts": "Účty",
       "signIn": "Přihlásit se",
       "otherAccounts": "Další účty"
@@ -269,7 +269,9 @@
       "notFound": "Nastavení nebylo nalezeno",
       "saved": "Nastavení bylo uloženo",
       "failedToSave": "Nepodařilo se uložit nastavení",
-      "languageChanged": "Jazyk změněn na {locale}"
+      "languageChanged": "Jazyk změněn na {locale}",
+      "defaultEmailUpdated": "Výchozí e-mailový alias byl aktualizován v Gmailu",
+      "failedToUpdateGmailAlias": "Nepodařilo se aktualizovat výchozí alias v nastavení Gmailu"
     },
     "mail": {
       "replies": "{count, plural, =0 {odpovědí} one {#odpověď} few {#odpovědi} many {#odpovědí} other {#odpovědí}}",
@@ -396,7 +398,10 @@
         "customPromptDescription": "Přizpůsobte, jak AI píše vaše e-mailové odpovědi. Toto bude přidáno k základnímu pokynu.",
         "noResultsFound": "Nebyly nalezeny žádné výsledky",
         "zeroSignature": "Zero podpis",
-        "zeroSignatureDescription": "Přidat Zero podpis k vašim emailům."
+        "zeroSignatureDescription": "Přidat Zero podpis k vašim emailům.",
+        "defaultEmailAlias": "Výchozí e-mailový alias",
+        "selectDefaultEmail": "Vybrat výchozí e-mail",
+        "defaultEmailDescription": "Tento e-mail bude použit jako výchozí adresa 'Od' při psaní nových e-mailů"
       },
       "connections": {
         "title": "Propojení emailu",

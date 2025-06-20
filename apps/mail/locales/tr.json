@@ -135,7 +135,7 @@
     "navUser": {
       "customerSupport": "Topluluk",
       "documentation": "Dokümantasyon",
-      "appTheme": "Uygulama Teması",
+      "appTheme": "Temayı Değiştir",
       "accounts": "Hesaplar",
       "signIn": "Giriş Yap",
       "otherAccounts": "Diğer Hesaplar"
@@ -269,7 +269,9 @@
       "notFound": "Ayarlar bulunamadı",
       "saved": "Ayarlar kaydedildi",
       "failedToSave": "Ayarlar kaydedilemedi",
-      "languageChanged": "Dil {locale} olarak değiştirildi"
+      "languageChanged": "Dil {locale} olarak değiştirildi",
+      "defaultEmailUpdated": "Varsayılan e-posta takma adı Gmail'de güncellendi",
+      "failedToUpdateGmailAlias": "Gmail ayarlarında varsayılan takma ad güncellenemedi"
     },
     "mail": {
       "replies": "{count, plural, =0 {cevaplar} one {# cevap} other {# cevaplar}}",
@@ -396,7 +398,10 @@
         "customPromptDescription": "Yapay zekanın e-posta yanıtlarınızı nasıl yazacağını özelleştirin. Bu, temel yönergeye eklenecektir.",
         "noResultsFound": "Sonuç bulunamadı",
         "zeroSignature": "Zero İmzası",
-        "zeroSignatureDescription": "E-postalarınıza Zero imzası ekleyin."
+        "zeroSignatureDescription": "E-postalarınıza Zero imzası ekleyin.",
+        "defaultEmailAlias": "Varsayılan E-posta Takma Adı",
+        "selectDefaultEmail": "Varsayılan e-postayı seç",
+        "defaultEmailDescription": "Bu e-posta, yeni e-postalar oluştururken varsayılan 'Kimden' adresi olarak kullanılacaktır"
       },
       "connections": {
         "title": "E-posta Bağlantıları",
